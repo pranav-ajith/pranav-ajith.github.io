@@ -6584,6 +6584,10 @@ button.close {
 .hidden {
   display: none !important;
 }
+.zoom
+{
+    zoom: 80%;
+}
 .affix {
   position: fixed;
 }
