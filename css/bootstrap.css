@@ -6586,7 +6586,7 @@ button.close {
 }
 .zoom
 {
-    zoom: 80%;
+    zoom: 50%;
 }
 .affix {
   position: fixed;
